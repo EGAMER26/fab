@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    align-content: center;
+    width: 100%;
+}
+nav ul {
+    justify-content: space-around;
+
+}
+
+
+
+
+main {
+    display: flex;
+}
